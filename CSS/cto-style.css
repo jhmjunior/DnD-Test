@@ -63,11 +63,13 @@ li:hover {
     width: 600px;    
     height: auto;
     align-items: center;
+    color:aliceblue
 }
 
 #email{
     border-style: solid;    
     width: 600px; 
+    color:aliceblue
 }
 
 #mensagem{
